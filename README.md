@@ -5,6 +5,7 @@ BudgetBazaar is an online e-commerce platform that specializes in offering a wid
 
 ### Technologies Used:
 * Angular
+* CSS
 
 ### Links:
 * [Backend Repo]()
